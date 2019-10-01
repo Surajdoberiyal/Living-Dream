@@ -1,0 +1,4 @@
+Software Requirement Specification
+https://krazytech.com/projects/sample-software-requirements-specificationsrs-report-airline-database
+https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document
+https://www.tutorialspoint.com/software_testing_dictionary/software_requirement_specification.htm
